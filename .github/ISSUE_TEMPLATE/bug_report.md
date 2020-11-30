@@ -2,37 +2,33 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe the bug**  
 A clear and concise description of what the bug is.
+- *Found in version:* eg: X.Y.Z
+- *Severity:* eg: low, medium, high
+- *Reproducibility:* eg: rare, intermittent, always
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Conditions (where applicable)**  
+- *Device:* 
+- *OS & version:* 
+- *Browser & version:* 
+- *Special conditions:* eg: number of sensors, specific athlete, specific login, without internet, with fingers crossed etc etc
 
-**Expected behavior**
+**Steps To Reproduce**  
+1. ...
+2. ...
+
+**Expected behavior**  
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Sceenshots, images and video**  
+If applicable, add screenshots, images and video to help explain the problem.  
+For larger files, consider adding a link to a file stored in Slack or OneDrive, but ensure it is accessible to those needing to view it!
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Additional info**  
+Add any other context about the problem here, eg: this issue was reported by a customer

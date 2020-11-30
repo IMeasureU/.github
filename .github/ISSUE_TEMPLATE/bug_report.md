@@ -7,28 +7,28 @@ assignees: ''
 
 ---
 
-**Describe the bug**  
+**Description**
 A clear and concise description of what the bug is.
+
+**Detail and conditions**
 - *Found in version:* eg: X.Y.Z
 - *Severity:* eg: low, medium, high
 - *Reproducibility:* eg: rare, intermittent, always
-
-**Conditions (where applicable)**  
 - *Device:* 
 - *OS & version:* 
 - *Browser & version:* 
 - *Special conditions:* eg: number of sensors, specific athlete, specific login, without internet, with fingers crossed etc etc
 
-**Steps To Reproduce**  
+**Steps to reproduce**  
 1. ...
 2. ...
 
-**Expected behavior**  
+**Expected behaviour**  
 A clear and concise description of what you expected to happen.
 
-**Sceenshots, images and video**  
-If applicable, add screenshots, images and video to help explain the problem.  
-For larger files, consider adding a link to a file stored in Slack or OneDrive, but ensure it is accessible to those needing to view it!
+**Attachments**  
+If applicable add screenshots, images or video to help explain the problem.  
+For larger files, consider adding a link to a file stored in Slack or OneDrive, but ensure the file is accessible to those needing to view it!
 
 **Additional info**  
-Add any other context about the problem here, eg: this issue was reported by a customer
+Add any other context about the problem here, eg: if an issue was reported by a customer

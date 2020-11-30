@@ -1,11 +1,3 @@
----
-name: New pull request
-about: Create a new pull request to merge your changes into another branch.
-title: ''
-labels: ''
-assignees: ''
----
-
 **Description**  
 A clear and concise description of what the pull request achieves.
 

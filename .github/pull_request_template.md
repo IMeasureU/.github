@@ -5,10 +5,6 @@ A clear and concise description of what the pull request achieves.
 A list of changes included in this pull request
 - ...
 
-**Related issues**  
-Use "#" to link related issues
-- ...
-
 **Additional comments**  
 eg: known issues, future work, etc...
 
@@ -19,5 +15,5 @@ eg: known issues, future work, etc...
 - [ ] Product/project manager reviewed
 - [ ] Code reviewed
 - [ ] Feature tested
-- [ ] Related issues closed
+- [ ] Linked issues closed
 - [ ] Test plan updated

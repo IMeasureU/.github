@@ -14,7 +14,7 @@ A clear and concise description of what the bug is.
 - *Found in version:* eg: X.Y.Z
 - *Severity:* eg: low, medium, high
 - *Reproducibility:* eg: rare, intermittent, always
-- *Device/OS/Browser:* 
+- *Device/Environment:* eg: iPad 10th gen, iOS 16.1, Safari 16
 
 **Steps to reproduce**  
 1. ...

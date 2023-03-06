@@ -1,8 +1,8 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report a bug.
 title: ''
-labels: 'bug'
+labels: 'bug triage-needed'
 assignees: ''
 
 ---
@@ -14,10 +14,7 @@ A clear and concise description of what the bug is.
 - *Found in version:* eg: X.Y.Z
 - *Severity:* eg: low, medium, high
 - *Reproducibility:* eg: rare, intermittent, always
-- *Device:* 
-- *OS & version:* 
-- *Browser & version:* 
-- *Special conditions:* eg: number of sensors, specific athlete, specific login, without internet, with fingers crossed etc etc
+- *Device/OS/Browser:* 
 
 **Steps to reproduce**  
 1. ...

@@ -6,8 +6,11 @@ labels: 'abnormal-algo-result'
 assignees: ''
 ---
 
-**Algorithm version**  
-If known...
+**Algorithm details**  
+eg: algorithm version, location (NV vs Sydney)
+
+**Identifier**
+eg: session UUID
 
 **Activity + Special Conditions**  
 A clear and concise description of the activity, including any special conditions.

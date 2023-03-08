@@ -19,7 +19,7 @@ What was the unexpected result returned from the algorithm?
 What do you believe the result should have been?
 
 **Data**  
-A link to the data processed and optionally any results received.
+Drag and drop a *zipped* copy of the data to be investigated, or a link to it if stored elsewhere.
 
 **Additional info**  
 Add any other context about the problem here, eg: if an issue was reported by a customer
